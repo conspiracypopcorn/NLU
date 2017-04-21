@@ -22,4 +22,4 @@ cd ../feature-concept-tagger/scripts
 
 nano NLU.sh (edit the first 3 lines to select smoothing, Ngram order, feature)
 
-./NLU.sh smoothing_method ngram_order feature
+./NLU.sh
